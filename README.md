@@ -23,3 +23,5 @@ Additional Resources:
 ==========
 Community Documentation: https://docs.neoforged.net/  
 NeoForged Discord: https://discord.neoforged.net/
+Project Red: https://github.com/MrTJP/ProjectRed
+Project Red Fabrication: https://modrinth.com/mod/project-red-fabrication/
