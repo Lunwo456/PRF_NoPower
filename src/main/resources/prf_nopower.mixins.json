@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.lunwo.prf_nopower.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "LithographyTable",
+    "PackagingTable",
+    "PlottingTable"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
