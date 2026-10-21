@@ -2,9 +2,7 @@ package com.lunwo.prf_nopower;
 
 import net.neoforged.fml.config.ModConfig;
 import org.slf4j.Logger;
-
 import com.mojang.logging.LogUtils;
-
 import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.ModContainer;
 
