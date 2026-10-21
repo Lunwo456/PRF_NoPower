@@ -19,7 +19,9 @@ run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean`
 
 Additional Resources: 
 ==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
-[Project Red](https://modrinth.com/mod/project-red-fabrication)
-[Project Red Fabrication](https://modrinth.com/mod/project-red-fabrication)
+[Community Documentation](https://docs.neoforged.net/)\
+[NeoForged Discord](https://discord.neoforged.net/)
+
+[Project Red](https://modrinth.com/mod/project-red-fabrication)\
+[Project Red Fabrication](https://modrinth.com/mod/project-red-fabrication)\
+[Project Red Exploration](https://modrinth.com/mod/project-red-exploration)
